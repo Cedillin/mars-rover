@@ -1,4 +1,4 @@
-# Mars Rover Controller
+# Mars Rover TEST
 
 Features:
 - Give initial starting point (x and y) of the rover and the initial facing direction of the rover (N, S, E, W)
